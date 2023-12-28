@@ -2,6 +2,7 @@ package ch02;
 
 public class OperationPromotionExample {
 
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		byte result1 = 10 + 20;
