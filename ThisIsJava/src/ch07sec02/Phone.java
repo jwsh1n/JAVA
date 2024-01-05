@@ -4,6 +4,10 @@ public class Phone {
 
 	public String model;
 	public String color;
+	
+	public Phone() {
+		System.out.println("Phone() 생성자 실행");
+	}
 
 	public void bell() {
 		System.out.println("벨이 울립니다.");

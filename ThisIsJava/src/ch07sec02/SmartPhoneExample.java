@@ -10,7 +10,11 @@ public class SmartPhoneExample {
 		System.out.println("색상: "+myPhone.color);
 
 		
-		System.out.println("와이파이 상태: "+myPhone.wifi);
+		
+		
+		
+		
+		/*System.out.println("와이파이 상태: "+myPhone.wifi);
 		
 		myPhone.bell();
 		myPhone.sendVoice("여보세요.");
@@ -19,7 +23,7 @@ public class SmartPhoneExample {
 		myPhone.hangUp();
 		
 		myPhone.setWifi(true);
-		myPhone.internet();
+		myPhone.internet();*/
 		
 	}
 
